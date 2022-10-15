@@ -4,7 +4,7 @@
 
 ### Linear Regression Project 
 
-[Linear Regression](/sample_page)
+[Linear Regression](Linear-Regression.ipynb)
 <img src="images/578082-637199624574737751-16x9.jpg?raw=true"/>
 
 ---
