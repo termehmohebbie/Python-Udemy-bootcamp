@@ -5,7 +5,7 @@
 ### Linear Regression Project 
 
 [Linear Regression](/sample_page)
-<img src="images/578082-637199624574737751-16x9.jpg"/>
+<img src="images/578082-637199624574737751-16x9.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
