@@ -1,10 +1,10 @@
-## Portfolio
+## Python for Data Science and Machine Learning Bootcamp
 
 ---
 
-### Category Name 1 
+### Linear Regression Project 
 
-[Project 1 Title](/sample_page)
+[Linear Regression](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
